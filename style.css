@@ -87,6 +87,10 @@ form button {
 
 #submit-error {
     color: red;
+    display: none;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
 }
 
 .input-group span i {
